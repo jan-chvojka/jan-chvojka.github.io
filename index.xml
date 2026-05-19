@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Jan Chvojka</title>
+      <link>https://jan-chvojka.github.io</link>
+      <description>Last 10 notes on Jan Chvojka</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Public Notes</title>
+    <link>https://jan-chvojka.github.io/</link>
+    <guid>https://jan-chvojka.github.io/</guid>
+    <description><![CDATA[ Public Notes. ]]></description>
+    <pubDate>Tue, 19 May 2026 19:39:24 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
